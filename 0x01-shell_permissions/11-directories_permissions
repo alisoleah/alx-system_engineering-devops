@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=olleh hello
+find $(pwd) --type d -exec chmod a+x {} \;
