@@ -1,0 +1,30 @@
+total 44
+drwxr-xr-x 2 root root 233 Dec  5 11:34 .
+drwxr-xr-x 6 root root 156 Dec  5 09:46 ..
+-rwxr-xr-x 1 root root  32 Dec  5 09:48 0-hello_world
+-rwxr-xr-x 1 root root  28 Dec  5 10:09 1-confused_smiley
+-rwxr-xr-x 1 root root  28 Dec  5 10:11 2-hellofile
+-rwxr-xr-x 1 root root  39 Dec  5 10:12 3-twofiles
+-rwxr-xr-x 1 root root  33 Dec  5 10:24 4-lastlines
+-rwxr-xr-x 1 root root  33 Dec  5 10:25 5-firstlines
+-rwxr-xr-x 1 root root  43 Dec  5 10:49 6-third_line
+-rwxr-xr-x 1 root root  62 Dec  5 11:32 7-file
+-rwxr-xr-x 1 root root  37 Dec  5 11:34 8-cwd_state
+-rw-r--r-- 1 root root 801 Dec  5 10:27 iacta
+-rw-r--r-- 1 root root   0 Dec  5 11:34 ls_cwd_content
+-rw-r--r-- 1 root root  17 Dec  5 09:55 README.md
+total 48
+drwxr-xr-x 2 root root 233 Dec  5 11:34 .
+drwxr-xr-x 6 root root 156 Dec  5 09:46 ..
+-rwxr-xr-x 1 root root  32 Dec  5 09:48 0-hello_world
+-rwxr-xr-x 1 root root  28 Dec  5 10:09 1-confused_smiley
+-rwxr-xr-x 1 root root  28 Dec  5 10:11 2-hellofile
+-rwxr-xr-x 1 root root  39 Dec  5 10:12 3-twofiles
+-rwxr-xr-x 1 root root  33 Dec  5 10:24 4-lastlines
+-rwxr-xr-x 1 root root  33 Dec  5 10:25 5-firstlines
+-rwxr-xr-x 1 root root  43 Dec  5 10:49 6-third_line
+-rwxr-xr-x 1 root root  62 Dec  5 11:32 7-file
+-rwxr-xr-x 1 root root  37 Dec  5 11:34 8-cwd_state
+-rw-r--r-- 1 root root 801 Dec  5 10:27 iacta
+-rw-r--r-- 1 root root 717 Dec  5 11:34 ls_cwd_content
+-rw-r--r-- 1 root root  17 Dec  5 09:55 README.md
